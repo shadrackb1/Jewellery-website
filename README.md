@@ -1,10 +1,8 @@
-﻿# Jewellery website
+# Aurora Jewel House
 
-Aurora Jewel House | Timeless Elegance
+<img src="./assets/header.svg" width="100%" alt="Aurora Jewel House" />
 
-## Stack
-
-react Â· vite Â· typescript Â· node
+Fine jewellery. Timeless pieces.
 
 ## Run locally
 
@@ -13,4 +11,4 @@ react Â· vite Â· typescript Â· node
 
 ## License
 
-Private / all rights reserved.
+All rights reserved.
