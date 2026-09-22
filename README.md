@@ -1,8 +1,12 @@
 # Aurora Jewel House
 
-<img src="./assets/header.svg" width="100%" alt="Aurora Jewel House" />
+Jewellery brand site.
 
-Fine jewellery. Timeless pieces.
+**Status:** brand site
+
+## Stack
+
+React, TypeScript, Vite
 
 ## Run locally
 
